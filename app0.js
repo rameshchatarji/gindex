@@ -39,7 +39,7 @@ function init(){
 <div id="content" class="mdui-container"></div>
 <div class="mdui-container">
 <div class="mdui-dialog" id="ContactModal">
-    <div class="mdui-dialog-content">Created By Himanshu Rahi | <a style = 'color: inherit;' href = 'https://fb.com/himanshurahi.31'>Facebook</a></div>
+    <div class="mdui-dialog-content">Telegram: <a style = 'color: inherit;' href = 'https://t.me/Alone215'>Alone</a></div>
     <div class="mdui-dialog-actions">
       <button class="mdui-btn mdui-ripple" mdui-dialog-close>Close</button>
     </div>
